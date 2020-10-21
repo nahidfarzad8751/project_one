@@ -1,0 +1,34 @@
+
+Project Proposal:
+
+
+An Analysis of Plane Crashes and Their Causes
+
+Team members:
+
+Abbie Kent
+David Coy
+Jessika Hall
+Maxwell Moorman
+Nahid Farzad
+
+Project description/outline 
+
+Whether it's the butterflies in your stomach on takeoff or the thrill of a crash in the theater, planes have long terrified and excited humans. Since 1908, individuals and groups have recorded plane crashes and the factors around them. Like a morbid recipe, NameError aims to discover if any of these recorded factors can help us understand plane crashes better. We predict that while highly developed countries such as the US, China, and Russia might have a higher number of plane crashes due to the higher volume of air traffic, they proportionally have less crashes compared to less developed countries. We also believe we will find that certain plane models have a higher rate of crashes and  have a statistically relevant impact on understanding what leads to these catastrophes. 
+
+Research Questions to Answer (Any additional questions we want to answer?):
+
+	1.	Do more developed countries with higher air traffic have less crashes proportionally compared to  less developed countries  
+
+	2.	Is there a correlation between the development ( GDP growth)  of a country and a decrease in plane crashes  
+
+	3.	Do individual pilots crash at a higher rate than company pilots? 
+	4.	Do “outside” factors (terrorism?) have a higher impact than “inside” factors (mechanical failure?) 
+
+	5.	Do certain decades have higher rates of global plane crashes? 
+	6.	Does the country of origin of the flight crew indicate a high number of fatalities  
+
+Datasets to be used: 
+
+
+https://www.kaggle.com/chadmunger/plane-crashes-1908-2019
