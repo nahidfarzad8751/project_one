@@ -1,4 +1,4 @@
-# project_one
+# Project One
 
 # Exploring Plane Crashes From 1908-2019
 
