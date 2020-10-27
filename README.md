@@ -29,15 +29,23 @@
   <br/>Worldwide GDP History 1960-2016: https://www.kaggle.com/jonscheaffer/worldwide-gdp-history-19602016?select=gdp_data.csv
 
 ## Rough Breakdown of Tasks
-  Octavia 
-   -Discuss the implications of your findings. This is where you get to have an open-ended discussion about what your findings  "mean". Describe the data exploration and cleanup process (accompanied by your Jupyter Notebook)
+  David 
+   -Work with Google API to find out how to look up location information based on names of areas given in current datafarmes
+   -Plot everything on maps to help visualize data.
   
-  Amanda
-   -Describe the core message or hypothesis for your project.
-   -Describe the questions you and your group found interesting, and what motivated you to answer    them
+  Nahid Farzad
+   - Do military operators have more crashes opposed to  other types of operators (ie: commercial, recreational)?
+   - Do certain decades have  a higher rate or global plane crashes?
   
-  Sadia
-   -Summarize where and how you found the data you used to answer these questions
-   -Tell a good story! Storytelling through data analysis is no different than in literature. Find your narrative and use your analysis and visualization skills to highlight conflict and resolution in your data.
-  
+  Abbie Kent
+   -
+   -
+
+  Maxwell Moorman
+   -
+   -
+   
+  Jessika Hall
+   -
+   -   
  
